@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/user/projects/VacuumWorld/build",
+  "command": "/usr/bin/c++   -I/home/user/projects/VacuumWorld/include -I/home/user/projects/VacuumWorld/src  -g   -pthread -o CMakeFiles/vacuumworld.dir/src/main.cpp.o -c /home/user/projects/VacuumWorld/src/main.cpp",
+  "file": "/home/user/projects/VacuumWorld/src/main.cpp"
+},
+{
+  "directory": "/home/user/projects/VacuumWorld/build",
+  "command": "/usr/bin/c++   -I/home/user/projects/VacuumWorld/include -I/home/user/projects/VacuumWorld/src  -g   -pthread -o CMakeFiles/vacuumworld.dir/src/vacuumenvironment.cpp.o -c /home/user/projects/VacuumWorld/src/vacuumenvironment.cpp",
+  "file": "/home/user/projects/VacuumWorld/src/vacuumenvironment.cpp"
+}
+]

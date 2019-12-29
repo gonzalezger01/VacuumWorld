@@ -1,0 +1,3 @@
+/home/user/projects/VacuumWorld/build/CMakeFiles/rebuild_cache.dir
+/home/user/projects/VacuumWorld/build/CMakeFiles/vacuumworld.dir
+/home/user/projects/VacuumWorld/build/CMakeFiles/edit_cache.dir

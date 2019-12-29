@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/projects/VacuumWorld/include/vacuumenvironment.h
+random
+-
+thread
+-
+string
+-
+iostream
+-
+
+/home/user/projects/VacuumWorld/src/main.cpp
+iostream
+-
+chrono
+-
+../include/vacuumenvironment.h
+/home/user/projects/VacuumWorld/include/vacuumenvironment.h
+
+/home/user/projects/VacuumWorld/src/vacuumenvironment.cpp
+../include/vacuumenvironment.h
+/home/user/projects/VacuumWorld/include/vacuumenvironment.h
+
